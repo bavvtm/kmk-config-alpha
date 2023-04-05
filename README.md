@@ -1,5 +1,4 @@
-## KMK firmware for PyroL Alpha keyboard
----
+## KMK firmware for PyroL Alpha keyboards
 _Alpha is a 28-key semi-ortholinear mechanical keyboard designed by PyroL._
 
 Hardware Availability: [PCB & Plate Source](https://github.com/PyrooL/Alpha)  
